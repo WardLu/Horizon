@@ -8,9 +8,9 @@
     "api_key_env": "DEEPSEEK_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
-    "throttle_sec": 1,
-    "analysis_concurrency": 4,
-    "enrichment_concurrency": 2,
+    "throttle_sec": 1.0,
+    "analysis_concurrency": 2,
+    "enrichment_concurrency": 1,
     "languages": [
       "zh"
     ],
@@ -153,7 +153,7 @@
     "google_news": null
   },
   "filtering": {
-    "ai_score_threshold": 8.0,
+    "ai_score_threshold": 7.0,
     "time_window_hours": 24,
     "max_items": 15,
     "category_groups": {},
