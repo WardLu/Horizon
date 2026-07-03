@@ -20,10 +20,10 @@
   "sources": {
     "github": [
       {
-        "type": "repo_releases",
-        "username": null,
-        "owner": "sgl-project",
-        "repo": "sglang",
+        "type": "user_events",
+        "username": "karpathy",
+        "owner": null,
+        "repo": null,
         "enabled": true
       },
       {
@@ -36,297 +36,96 @@
       {
         "type": "repo_releases",
         "username": null,
-        "owner": "YD4223",
-        "repo": "aihub",
-        "enabled": true
-      },
-      {
-        "type": "user_events",
-        "username": "karpathy",
-        "owner": null,
-        "repo": null,
+        "owner": "sgl-project",
+        "repo": "sglang",
         "enabled": true
       }
     ],
     "hackernews": {
       "enabled": true,
       "fetch_top_stories": 30,
-      "min_score": 100
+      "min_score": 150
     },
     "rss": [
       {
         "name": "Anthropic Research",
         "url": "https://www.anthropic.com/research/rss",
         "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "量子位",
-        "url": "https://wechat2rss.xlab.app/feed/7131b577c61365cb47e81000738c10d872685908.xml",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "新智元",
-        "url": "https://wechat2rss.xlab.app/feed/ede30346413ea70dbef5d485ea5cbb95cca446e7.xml",
-        "enabled": true,
-        "category": ""
+        "category": "ai-research"
       },
       {
         "name": "Simon Willison",
         "url": "https://simonwillison.net/atom/everything/",
         "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "BAIR Blog",
-        "url": "https://bair.berkeley.edu/blog/feed.xml",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Latent Space",
-        "url": "https://www.latent.space/feed",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Chip Huyen",
-        "url": "https://huyenchip.com/feed.xml",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Jay Alammar",
-        "url": "https://jalammar.github.io/feed.xml",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Ahead of AI (Sebastian Raschka)",
-        "url": "https://magazine.sebastianraschka.com/feed",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Interconnects",
-        "url": "https://www.interconnects.ai/feed",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Machine Learning Mastery",
-        "url": "https://machinelearningmastery.com/feed/",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com/blog/rss.xml",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Sebastian Raschka",
-        "url": "https://sebastianraschka.com/rss_feed.xml",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "The Batch",
-        "url": "https://www.deeplearning.ai/the-batch/feed/",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "The Gradient",
-        "url": "https://thegradient.pub/rss/",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Stanford AI Lab (SAIL) Blog",
-        "url": "https://ai.stanford.edu/blog/feed.xml",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Ars Technica AI",
-        "url": "http://feeds.arstechnica.com/arstechnica/artificial-intelligence",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "AI Weekly",
-        "url": "https://aiweekly.co/issues.rss",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "The Economist",
-        "url": "https://www.economist.com/latest/rss.xml",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Last Week in AI",
-        "url": "https://lastweekin.ai/feed",
-        "enabled": true,
-        "category": ""
+        "category": "ai-tools"
       },
       {
         "name": "Lilian Weng",
         "url": "https://lilianweng.github.io/index.xml",
         "enabled": true,
-        "category": ""
+        "category": "ai-research"
       },
       {
-        "name": "Lobsters",
-        "url": "https://lobste.rs/rss",
+        "name": "Ahead of AI (Sebastian Raschka)",
+        "url": "https://magazine.sebastianraschka.com/feed",
         "enabled": true,
-        "category": ""
+        "category": "ai-research"
       },
       {
-        "name": "The Pragmatic Engineer",
-        "url": "https://newsletter.pragmaticengineer.com/feed",
+        "name": "Latent Space",
+        "url": "https://www.latent.space/feed",
         "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "AINews (Buttondown)",
-        "url": "https://buttondown.com/ainews/rss",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "BBC Learning English",
-        "url": "http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/rss",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Anavem.com",
-        "url": "https://www.anavem.com/en/rss.xml",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "AWS Machine Learning Blog",
-        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Google Blog",
-        "url": "https://blog.google/feed/",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "Microsoft AI Blog",
-        "url": "https://blogs.microsoft.com/ai/feed/",
-        "enabled": true,
-        "category": ""
-      },
-      {
-        "name": "NVIDIA Developer Blog",
-        "url": "https://developer.nvidia.com/blog/feed",
-        "enabled": true,
-        "category": ""
+        "category": "ai-industry"
       },
       {
         "name": "Hugging Face Blog",
         "url": "https://huggingface.co/blog/feed.xml",
         "enabled": true,
-        "category": ""
+        "category": "open-source-ai"
       },
       {
-        "name": "OpenAI News",
-        "url": "https://openai.com/news/rss.xml",
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/blog/rss.xml",
         "enabled": true,
-        "category": ""
+        "category": "ai-industry"
       },
       {
-        "name": "Product Hunt",
-        "url": "https://www.producthunt.com/feed",
+        "name": "Last Week in AI",
+        "url": "https://lastweekin.ai/feed",
         "enabled": true,
-        "category": ""
+        "category": "ai-digest"
+      },
+      {
+        "name": "Chip Huyen",
+        "url": "https://huyenchip.com/feed.xml",
+        "enabled": true,
+        "category": "ai-engineering"
+      },
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/feed",
+        "enabled": true,
+        "category": "hardware"
       }
     ],
     "reddit": {
       "enabled": true,
       "subreddits": [
         {
-          "subreddit": "MachineLearning",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        },
-        {
           "subreddit": "LocalLLaMA",
           "enabled": true,
           "sort": "hot",
           "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
+          "fetch_limit": 10,
+          "min_score": 80
         },
         {
-          "subreddit": "StableDiffusion",
+          "subreddit": "MachineLearning",
           "enabled": true,
           "sort": "hot",
           "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        },
-        {
-          "subreddit": "artificial",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        },
-        {
-          "subreddit": "OpenAI",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        },
-        {
-          "subreddit": "ChatGPTCoding",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        },
-        {
-          "subreddit": "technology",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        },
-        {
-          "subreddit": "ChatGPT",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        },
-        {
-          "subreddit": "indiehackers",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
+          "fetch_limit": 10,
+          "min_score": 80
         }
       ],
       "users": [],
@@ -354,9 +153,9 @@
     "google_news": null
   },
   "filtering": {
-    "ai_score_threshold": 7.0,
+    "ai_score_threshold": 8.0,
     "time_window_hours": 24,
-    "max_items": null,
+    "max_items": 15,
     "category_groups": {},
     "default_group": "other",
     "default_group_limit": null
