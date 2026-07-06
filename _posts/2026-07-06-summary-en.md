@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Horizon Summary: 2026-07-06 (ZH)"
+title: "Horizon Summary: 2026-07-06 (EN)"
 date: 2026-07-06
-lang: zh
+lang: en
 ---
 
-> 从 18 条内容中筛选出 10 条重要资讯。
+> From 18 items, 10 important content pieces were selected
 
 ---
 
@@ -27,9 +27,9 @@ lang: zh
 
 Cloudflare announces Workers Cache, a caching API for Workers that follows HTTP spec and includes cache tags for invalidation.
 
-hackernews · ilreb · 7月6日 13:02 · [社区讨论](https://news.ycombinator.com/item?id=48804014)
+hackernews · ilreb · Jul 6, 13:02 · [Discussion](https://news.ycombinator.com/item?id=48804014)
 
-**标签**: `#cloudflare`, `#caching`, `#workers`, `#api`, `#cdn`
+**Tags**: `#cloudflare`, `#caching`, `#workers`, `#api`, `#cdn`
 
 ---
 
@@ -38,9 +38,9 @@ hackernews · ilreb · 7月6日 13:02 · [社区讨论](https://news.ycombinator
 
 A controlled study finds that code cleanliness significantly impacts the performance of coding agents, with community debate on experimental design.
 
-hackernews · softwaredoug · 7月5日 23:03 · [社区讨论](https://news.ycombinator.com/item?id=48798815)
+hackernews · softwaredoug · Jul 5, 23:03 · [Discussion](https://news.ycombinator.com/item?id=48798815)
 
-**标签**: `#code quality`, `#coding agents`, `#AI`, `#software engineering`, `#empirical study`
+**Tags**: `#code quality`, `#coding agents`, `#AI`, `#software engineering`, `#empirical study`
 
 ---
 
@@ -49,9 +49,9 @@ hackernews · softwaredoug · 7月5日 23:03 · [社区讨论](https://news.ycom
 
 An opinion piece arguing that private AI companies unfairly exploit public contributions without compensation, proposing a universal dividend, but prompts debate on fairness and copyright.
 
-hackernews · martialg · 7月5日 23:52 · [社区讨论](https://news.ycombinator.com/item?id=48799178)
+hackernews · martialg · Jul 5, 23:52 · [Discussion](https://news.ycombinator.com/item?id=48799178)
 
-**标签**: `#AI ethics`, `#copyright`, `#training data`, `#public goods`, `#intellectual property`
+**Tags**: `#AI ethics`, `#copyright`, `#training data`, `#public goods`, `#intellectual property`
 
 ---
 
@@ -60,9 +60,9 @@ hackernews · martialg · 7月5日 23:52 · [社区讨论](https://news.ycombina
 
 Tencent released Hy3, a 295B/21B active open-source MoE model under Apache 2.0, with impressive benchmark improvements over its preview.
 
-reddit · r/LocalLLaMA · Nunki08 · 7月6日 06:09 · [社区讨论](https://www.reddit.com/r/LocalLLaMA/comments/1uoozt4/new_open_model_from_tencent_hy_hy3_295b_total_21b/)
+reddit · r/LocalLLaMA · Nunki08 · Jul 6, 06:09 · [Discussion](https://www.reddit.com/r/LocalLLaMA/comments/1uoozt4/new_open_model_from_tencent_hy_hy3_295b_total_21b/)
 
-**标签**: `#large language model`, `#open source`, `#Tencent`, `#model release`, `#Apache 2.0`
+**Tags**: `#large language model`, `#open source`, `#Tencent`, `#model release`, `#Apache 2.0`
 
 ---
 
@@ -71,9 +71,9 @@ reddit · r/LocalLLaMA · Nunki08 · 7月6日 06:09 · [社区讨论](https://ww
 
 OpenAI's GPT-5.6 Sol Ultra model is being integrated into Codex, with community debate on whether the 'ultra' mode is a significant backend improvement or just a relabeled setting.
 
-hackernews · mfiguiere · 7月6日 01:04 · [社区讨论](https://news.ycombinator.com/item?id=48799614)
+hackernews · mfiguiere · Jul 6, 01:04 · [Discussion](https://news.ycombinator.com/item?id=48799614)
 
-**标签**: `#GPT`, `#OpenAI`, `#Codex`, `#AI`, `#LLM`
+**Tags**: `#GPT`, `#OpenAI`, `#Codex`, `#AI`, `#LLM`
 
 ---
 
@@ -82,9 +82,9 @@ hackernews · mfiguiere · 7月6日 01:04 · [社区讨论](https://news.ycombin
 
 sqlite-utils 4.0rc3 introduces compound foreign keys and case-insensitive column matching, moving closer to stable release.
 
-rss · Simon Willison · 7月6日 05:40
+rss · Simon Willison · Jul 6, 05:40
 
-**标签**: `#sqlite-utils`, `#python`, `#SQLite`, `#release`, `#datasette`
+**Tags**: `#sqlite-utils`, `#python`, `#SQLite`, `#release`, `#datasette`
 
 ---
 
@@ -93,9 +93,9 @@ rss · Simon Willison · 7月6日 05:40
 
 Hugging Face releases LeRobot v0.6.0 with new capabilities for imagining, evaluating, and improving robot policies.
 
-rss · Hugging Face Blog · 7月7日 00:00
+rss · Hugging Face Blog · Jul 7, 00:00
 
-**标签**: `#robotics`, `#simulation`, `#open-source`, `#machine learning`, `#Hugging Face`
+**Tags**: `#robotics`, `#simulation`, `#open-source`, `#machine learning`, `#Hugging Face`
 
 ---
 
@@ -104,9 +104,9 @@ rss · Hugging Face Blog · 7月7日 00:00
 
 Photoroom shares their data strategy for the PRX project, part 4 of a series.
 
-rss · Hugging Face Blog · 7月6日 15:30
+rss · Hugging Face Blog · Jul 6, 15:30
 
-**标签**: `#data strategy`, `#machine learning`, `#PRX`, `#Hugging Face`
+**Tags**: `#data strategy`, `#machine learning`, `#PRX`, `#Hugging Face`
 
 ---
 
@@ -115,9 +115,9 @@ rss · Hugging Face Blog · 7月6日 15:30
 
 Hugging Face announces major updates to their kernel library, improving performance and usability for transformer optimization.
 
-rss · Hugging Face Blog · 7月6日 00:00
+rss · Hugging Face Blog · Jul 6, 00:00
 
-**标签**: `#huggingface`, `#kernels`, `#machine learning`, `#optimization`, `#transformers`
+**Tags**: `#huggingface`, `#kernels`, `#machine learning`, `#optimization`, `#transformers`
 
 ---
 
@@ -126,8 +126,8 @@ rss · Hugging Face Blog · 7月6日 00:00
 
 Speculates that Mythos-class AI capability could run on high-end consumer hardware within two years, igniting discussion on local vs. cloud AI and hardware accessibility.
 
-reddit · r/LocalLLaMA · PetersOdyssey · 7月6日 00:40 · [社区讨论](https://www.reddit.com/r/LocalLLaMA/comments/1uoij3s/if_trends_hold_mythosclass_capability_may_be/)
+reddit · r/LocalLLaMA · PetersOdyssey · Jul 6, 00:40 · [Discussion](https://www.reddit.com/r/LocalLLaMA/comments/1uoij3s/if_trends_hold_mythosclass_capability_may_be/)
 
-**标签**: `#local AI`, `#consumer hardware`, `#AI trends`, `#hardware capability`, `#community discussion`
+**Tags**: `#local AI`, `#consumer hardware`, `#AI trends`, `#hardware capability`, `#community discussion`
 
 ---
